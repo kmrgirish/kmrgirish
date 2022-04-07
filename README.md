@@ -9,8 +9,8 @@
 - 👨‍💻️ Terminal - [tilix](https://gnunn1.github.io/tilix-web/)
 
 ### Social
-- [Twitter](https://twitter.com/girishk_umar)
-- [Linkedin](https://linkedin.com/in/zkmrgirish)
+- [Twitter](https://twitter.com/0xgirish)
+- [Linkedin](https://linkedin.com/in/0xgirish)
 
 <!--
 **zkmrgirish/zkmrgirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
