@@ -1,5 +1,5 @@
 ## Hello. I'm Girish
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning :)
 - 💬 Ask me about vim, go or universe 😛️
 - 📫 How to reach me: zkmrgirish@gmail.com
 
