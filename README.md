@@ -1,19 +1,19 @@
 ## Hello. I'm Girish
-- 🌱 I’m currently learning :)
+- 🌱 I’m currently building things :)
 - 💬 Ask me about vim, go or universe 😛️
 - 📫 How to reach me: zkmrgirish@gmail.com
 
 ### Favourite
-- ✍️ Editor - [kakoune](https://kakoune.org)
+- ✍️ Editor - [vscode](https://code.visualstudio.com/), [helix](https://helix-editor.com/)
 - 💻️ Language - [go](https://golang.org)
-- 👨‍💻️ Terminal - [tilix](https://gnunn1.github.io/tilix-web/)
+- 👨‍💻️ Terminal - [iterm](https://iterm2.com/)
 
 ### Social
 - [Twitter](https://twitter.com/0xgirish)
 - [Linkedin](https://linkedin.com/in/0xgirish)
 
 <!--
-**zkmrgirish/zkmrgirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kmrgirish/kmrgirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🔭 I’m currently working on nothing m -->
