@@ -1,5 +1,5 @@
 ## Hello. I'm Girish
-- 🌱 I’m currently building things :)
+- 🧱 I’m currently building things :)
 - 💬 Ask me about vim, go or universe 😛️
 - 📫 How to reach me: zkmrgirish@gmail.com
 
