@@ -1,7 +1,7 @@
 ## Hello. I'm Girish
 - 🧱 I’m currently building things :)
 - 💬 Ask me about vim, go or universe 😛️
-- 📫 How to reach me: zkmrgirish@gmail.com
+- 📫 How to reach me: hey@0xgirish.in
 
 ### Favourite
 - ✍️ Editor - [vscode](https://code.visualstudio.com/), [helix](https://helix-editor.com/)
